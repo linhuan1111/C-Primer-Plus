@@ -1,0 +1,1 @@
+#define HARMONIC_MEAN(a, b) (2.0 * (a) * (b) / ((a) + (b)))
